@@ -7,4 +7,3 @@ cascade:
     render: never
     list: always
 ---
-title: Stefan Gugler ASD
