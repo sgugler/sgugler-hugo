@@ -89,6 +89,7 @@ education:
 
 ## About Me
 
-I am a postdoc at [TU Berlin](https://www.tu.berlin/) in the [machine learning group](https://web.ml.tu-berlin.de/) of Prof. Dr. Klaus-Robert Müller, funded first by [BIFOLD](https://www.bifold.berlin/) and now by [SNF](https://www.snf.ch/en).
+I am a postdoc at [TU Berlin](https://www.tu.berlin/) in the [machine learning group](https://web.ml.tu-berlin.de/) of Prof. Dr. Klaus-Robert Müller. My research concerns novel machine learning methods like probabilistic diffusion models and their applications to theoretical chemistry. 
+<!-- funded first by [BIFOLD](https://www.bifold.berlin/) and now by [SNF](https://www.snf.ch/en). -->
 
 
