@@ -52,7 +52,7 @@ interests:
 education:
   - area: PhD quantum chemistry
     institution: ETH Zurich
-  - area: MSc computational inforganic chemistry
+  - area: MSc computational inorganic chemistry
     institution: Massachusetts Institute of Technology
 
 # Awards.
