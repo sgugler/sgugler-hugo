@@ -35,12 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text:|
-        # {{< math >}}$\hat H \Psi = E \Psi${{< /math >}}
         I did my PhD at the Laboratory for Physical Chemistry (now: Institute of Molecular Physical Science) at ETH Zurich. I worked in the research group of [Prof. Markus Reiher](https://reiher.ethz.ch/). I developed procedures to apply methods from the field of machine learning and artificial intelligence to theoretical chemistry. My first paper applies Gaussian process regression and Bayesian sampling to dispersion interaction between organic compounds to yield more accurate results as well as streamline the pipeline of starting new reference calculations for compounds too dissimilar to the training set.
         Before, I worked at MIT under [Prof. Heather J. Kulik](https://hjkgrp.mit.edu/) for my Master thesis, on transition metal complexes for multifidelity machine learning. The work was [published](https://pubs.rsc.org/en/content/articlelanding/2020/me/c9me00069k) and won an MSDE award. Another [collaboration](https://pubs.acs.org/doi/10.1021/acs.iecr.8b04015) was published and a [follow up](https://pubs.aip.org/aip/jcp/article/157/18/184112/2842053) to my thesis.
         From 2013 to 2018 I studied Interdisciplinary Science at ETH Zurich with a major in Computational and Physical Chemistry.
-        # {{< tweet user="stevain" id="1792529346776744135" >}}
-
     # design:
     #   columns: '1'
   # - block: collection
