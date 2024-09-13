@@ -89,8 +89,6 @@ education:
 
 ## About Me
 
-Now at TU Berlin. I am a PhD student at the Laboratory for Physical Chemistry at ETH Zurich. I work in the research group of Prof. Markus Reiher. I develop procedures to apply methods from the field of machine learning and artificial intelligence to theoretical chemistry. My first paper applies Gaussian process regression and Bayesian sampling to dispersion interaction between organic compounds to yield more accurate results as well as streamline the pipeline of starting new reference calculations for compounds too dissimilar to the training set.
+I am a postdoc at [TU Berlin](https://www.tu.berlin/) in the [machine learning group](https://web.ml.tu-berlin.de/) of Prof. Dr. Klaus-Robert Müller, funded first by [BIFOLD](https://www.bifold.berlin/) and now by [SNF](https://www.snf.ch/en).
 
-In Fall 2018, I completed my Master’s Thesis, Enumerating the inorganic universe of small complexes for multifidelity machine learning, at MIT under Prof. Heather J. Kulik. The work was published in Molecular Systems Design & Engineering and I was given the opportunity to give a poster at the National Meeting 2018 of the ACS in Boston.
 
-From 2013 to 2018 I studied Interdisciplinary Science at ETH Zurich with a major in Computational and Physical Chemistry. This research focused course allowed for less traditional intersections of the sciences: I attended classes in Machine Learning, Algorithms and Data Structures, and Deep Learning on one hand but also in Quantum Information Processing, Quantum Chemistry, and Spectroscopy on the other. This lets me combine my interests for the fundamental chemical sciences with modern information processing and statistical inference methods.
