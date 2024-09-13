@@ -34,8 +34,7 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text:|
-        Description
+      text: 'Description'
     # design:
     #   columns: '1'
   # - block: collection
